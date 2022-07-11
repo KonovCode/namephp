@@ -8,5 +8,6 @@ $database = new lerndb('localhost', 'my_shop', 'postgres', 'admin');
 
 $database->query($getProducts);
 
+echo 'lern git hub';
 ?>
 
